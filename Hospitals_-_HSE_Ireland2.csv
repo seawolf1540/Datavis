@@ -1,0 +1,70 @@
+OBJECTID,category,subcategory,name,address1,address2,address3,address4,County,Eircode,POINT_X,POINT_Y,InpatBedCount,ED
+116,Hospital,Cancer,St Luke's Radiation Oncology Network,Highfield Road,Dublin 6,,,Dublin,D06 HH36,-6.26748252,53.31015528,0,N
+38,Hospital,Dental,Dublin Dental Hospital,Lincoln Place,Dublin 2,,,Dublin,D02 F859,-6.251954134,53.34237804,0,N
+125,Hospital,Dental,University Dental School & Hospital,Cork University Hospital,Wilton,Cork,,Cork,T12 E8YV,-8.512911737,51.88363266,0,N
+7,Hospital,General/Acute,Bantry General Hospital,Carrignagat,Bantry,Co. Cork,,Cork,P75 DX93,-9.44967122,51.67598983,46,Y
+10,Hospital,General/Acute,Beaumont Hospital,Beaumont Road,Dublin 9,,,Dublin,D09 C562,-6.225653749,53.39213039,716,Y
+24,Hospital,General/Acute,Cavan General Hospital,Lisdarn,Cavan,,,Cavan,H12 Y7W1,-7.372203341,54.00183063,231,Y
+29,Hospital,General/Acute,Connolly Hospital Blanchardstown,Mill Road,Dublin 15,,,Dublin,D15 X40D,-6.368138409,53.38856969,303,Y
+32,Hospital,General/Acute,Cork University Hospital,Wilton,Cork,,,Cork,T12 DC4A,-8.510532917,51.88336306,645,Y
+42,Hospital,General/Acute,Ennis Hospital,Gort Road,Ennis,Co. Clare,,Clare,V95 HN29,-8.983247738,52.8511112,50,N
+47,Hospital,General/Acute,Galway University Hospitals,Newcastle Road,Galway,,,Galway,H91 YR71,-9.065013534,53.27586111,0,N
+57,Hospital,General/Acute,Letterkenny University Hospital,Kilmacrennan Road,Letterkenny,Co. Donegal,,Donegal,F92 AE81,-7.734342956,54.96001799,340,Y
+62,Hospital,General/Acute,Mallow General Hospital,Kilknockin,Mallow,Co. Cork,,Cork,P51 N288,-8.663606862,52.15133132,37,Y
+64,Hospital,General/Acute,"Mater Misericordiae University Hospital",Eccles Street,Dublin 7,,,Dublin,D07 R2WY,-6.268225539,53.35939538,679,Y
+66,Hospital,General/Acute,Mayo University Hospital,Westport Road,Castlebar,Co. Mayo,,Mayo,F23 H529,-9.303428586,53.85204092,259,Y
+67,Hospital,General/Acute,Mercy University Hospital,Grenville Place,Cork,,,Cork,T12 WE28,-8.482448626,51.89875335,198,Y
+68,Hospital,General/Acute,Midland Regional Hospital Mullingar,Longford Road,Mullingar,Co. Westmeath,,Westmeath,N91 NA43,-7.349116718,53.53417635,184,Y
+69,Hospital,General/Acute,Midland Regional Hospital Portlaoise,Dublin Road,Portlaoise,Co. Laois,,Laois,R32 RW61,-7.275992984,53.03795733,133,Y
+70,Hospital,General/Acute,Midland Regional Hospital Tullamore,Arden Road,Tullamore,Co. Offaly,,Offaly,R35 NY51,-7.491010558,53.28217446,187,Y
+73,Hospital,General/Acute,Monaghan Hospital,Monaghan,,,,Monaghan,H18 NV91,-6.97435285,54.24949163,0,N
+76,Hospital,General/Acute,Naas General Hospital,Craddockstown Road,Naas,Co. Kildare,,Kildare,W91 AE76,-6.661578541,53.21147485,166,Y
+80,Hospital,General/Acute,Nenagh Hospital,Tyone,Nenagh,Co. Tipperary,,Tipperary,E45 PT86,-8.19119508,52.85765214,52,N
+82,Hospital,General/Acute,Our Lady of Lourdes Hospital Drogheda,Drogheda,Co. Louth,,,Louth,A92 VW28,-6.354947044,53.72273514,427,Y
+85,Hospital,General/Acute,Our Lady's Hospital Navan,Navan,Co. Meath,,,Meath,C15 RK7Y,-6.697144739,53.65030094,87,Y
+87,Hospital,General/Acute,Portiuncula University Hospital,Ballinasloe,Co. Galway,,,Galway,H53 T971,-8.234633962,53.3266483,163,Y
+90,Hospital,General/Acute,Roscommon University Hospital,Ardsallagh Beg,Co. Roscommon,,,Roscommon,F42 AX61,-8.175082909,53.62476219,63,N
+97,Hospital,General/Acute,"Saint James's Hospital",James's Street,Dublin 8,,,Dublin,D08 NHY1,-6.296627647,53.33923956,680,Y
+109,Hospital,General/Acute,Sligo University Hospital,The Mall,Sligo,,,Sligo,F91 H684,-8.463360928,54.27417801,277,Y
+110,Hospital,General/Acute,South Infirmary Victoria University Hospital,Old Blackrock Road,Cork,,,Cork,T12 X23H,-8.463791746,51.89355786,135,N
+111,Hospital,General/Acute,South Tipperary General Hospital,Western Road,Clonmel,Co. Tipperary,,Tipperary,E91 VY40,-7.714320695,52.35548149,200,Y
+113,Hospital,General/Acute,St Columcille's Hospital,Bray Road,Loughlinstown,Co. Dublin,,Dublin,D18 V9K1,-6.13243255,53.24282907,103,N
+114,Hospital,General/Acute,St John's Hospital Limerick,John's Street,Limerick,,,Limerick,V94 H272,-8.617064653,52.66304491,82,N
+115,Hospital,General/Acute,St Luke's General Hospital Kilkenny,Freshford Road,Kilkenny,,,Kilkenny,R95 FY71,-7.262799855,52.66603661,186,Y
+117,Hospital,General/Acute,St Vincent's University Hospital,Elm Park,Nutley Lane,Dublin 4,,Dublin,D04 T6F4,-6.213249638,53.31659067,523,Y
+119,Hospital,General/Acute,St. Michael's Hospital,George's Street Lower,Dun Laoghaire,Co. Dublin,,Dublin,A96 P902,-6.13852319,53.29380167,87,N
+122,Hospital,General/Acute,Tallaght University Hospital,Belgard Square North,Dublin 24,,,Dublin,D24 NR0A,-6.378254022,53.29064546,397,Y
+126,Hospital,General/Acute,University Hospital Kerry,Tralee,Co. Kerry,,,Kerry,V92 NX94,-9.689150451,52.26538272,267,Y
+127,Hospital,General/Acute,University Hospital Limerick,Saint Nessan's Road,Dooradoyle,Limerick,,Limerick,V94 F858,-8.653332861,52.63586897,516,Y
+128,Hospital,General/Acute,University Hospital Waterford,Dunmore Road,Waterford,,,Waterford,X91 ER8E,-7.078500258,52.24855592,405,Y
+130,Hospital,General/Acute,Wexford General Hospital,Newtown Road,Wexford,,,Wexford,Y35 Y17D,-6.482402153,52.34283079,227,Y
+30,Hospital,Maternity,Coombe Women & Infant University Hospital,Dolphin's Barn Street,Dublin 8,,,Dublin,D08 XW7X,-6.288507352,53.33483218,201,N
+33,Hospital,Maternity,Cork University Maternity Hospital,Wilton,Cork,,,Cork,T12 YE02,-8.510566243,51.88228255,185,N
+77,Hospital,Maternity,National Maternity Hospital,Holles Street,Dublin 2,,,Dublin,D02 YH21,-6.245992898,53.34024806,152,N
+91,Hospital,Maternity,Rotunda Hospital,Parnell Street,Dublin 1,,,Dublin,D01 P5W9,-6.263158563,53.35234411,169,N
+129,Hospital,Maternity,University Maternity Hospital Limerick,Ennis Road,Limerick,,,Limerick,V94 C566,-8.633368081,52.66731798,102,N
+92,Hospital,Opthalmic/ENT,Royal Victoria Eye And Ear Hospital,Adelaide Road,Dublin 2,,,Dublin,D02 XK51,-6.2561832,53.33282622,80,N
+34,Hospital,Orthopaedic,Croom Orthopaedic Hospital,Skagh,Croom,Co. Limerick,,Limerick,V35 F434,-8.712232682,52.52751889,43,N
+52,Hospital,Orthopaedic,Kilcreene Regional Orthopaedic Hospital,Kilcreene Hospital,Kilkenny,,,Kilkenny,R95 DK07,-7.274234519,52.65241833,19,N
+78,Hospital,Orthopaedic,National Orthopaedic Hospital Cappagh,Cappagh Road,Dublin 11,,,Dublin,D11 EV29,-6.327703854,53.39438994,61,N
+26,Hospital,Paediatric,Children's University Hospital Temple Street,Children's University Hospital,Temple Street,Dublin 1,,Dublin,D01 YC67,-6.262040023,53.35689275,99,Y
+84,Hospital,Paediatric,Our Lady's Children's Hospital Crumlin,Crumlin,Dublin 12,,,Dublin,D12 N512,-6.318603256,53.32603679,185,Y
+123,Hospital,Paediatric,Temple Street Children's University Hospital,Children's University Hospital,Temple Street,Dublin 1,,Dublin,D01 F772,-6.2621584,53.35727506,0,N
+3,Hospital,Private General,Aut Even Hospital,Freshford Road,Kilkenny,,,Kilkenny,R95 D370,-7.270028796,52.67651038,102,N
+8,Hospital,Private General,Barrington's Hospital,George's Quay,Limerick,,,Limerick,V94 HE2T,-8.621380107,52.66682012,54,N
+9,Hospital,Private General,Beacon Hospital,Beacon Court,Sandyford Industrial Estate,Dublin 18,,Dublin,D18 AK68,-6.219959859,53.27679072,189,Y
+13,Hospital,Private General,Blackrock Clinic,Rock Road,Blackrock,Co. Dublin,,Dublin,A94 E4X7,-6.188171533,53.30346751,168,Y
+14,Hospital,Private General,Bon Secours Hospital - Cork,College Road,Cork,,,Cork,T12 DV56,-8.497303541,51.89154838,344,Y
+15,Hospital,Private General,Bon Secours Hospital - Dublin,Glasnevin Hill,Dublin 9,,,Dublin,D09 YN97,-6.267387202,53.37587832,107,N
+16,Hospital,Private General,Bon Secours Hospital - Galway,Renmore Road,Galway,,,Galway,H91 KC7H,-9.019619316,53.27793533,120,Y
+17,Hospital,Private General,Bon Secours Hospital - Kerry,Strand Street,Tralee,Co. Kerry,,Kerry,V92 P663,-9.713037617,52.26958556,130,Y
+45,Hospital,Private General,Galway Clinic,Doughiska,Galway,,,Galway,H91 HHT0,-8.973849152,53.28268798,146,Y
+49,Hospital,Private General,Hermitage Medical Clinic,Lucan Road Old,Dublin 20,,,Dublin,D20 W722,-6.405997262,53.35919729,112,Y
+55,Hospital,Private General,"Kingsbridge Private Hospital",Ray Mcsharry Road,,,Sligo,Sligo,F91 X054,-8.481604793,54.26877831,19,N
+65,Hospital,Private General,Mater Private Hospital,Eccles Street,Dublin 7,,,Dublin,D07 WKW8,-6.264321432,53.35803201,200,Y
+96,Hospital,Private General,Saint Francis Private Hospital,Ballinderry,Mullingar,Co. Westmeath,,Westmeath,N91 FE40,-7.334747368,53.5140609,77,N
+105,Hospital,Private General,"Saint Vincent's Private Hospital",Herbert Avenue,Merrion Road,Dublin 4,,Dublin,D04 N2E0,-6.209200909,53.31532573,236,Y
+112,Hospital,Private General,Sports Surgery Clinic,Northwood Avenue,Northwood,Santry,Dublin 9,Dublin,D09 C523,-6.25366349,53.40473108,83,N
+124,Hospital,Private General,The Mater Private - Cork,Building 3000,City Gate,Mahon,Cork,Cork,T12 K199,-8.406199288,51.88626834,102,Y
+131,Hospital,Private General,Whitfield Clinic,Cork Road,Butlerstown North,Waterford,,Waterford,X91 DH9W,-7.17172204,52.24035751,76,N
+79,Hospital,Rehabilitation,National Rehab,Rochestown Avenue,Dun Laoghaire,Co. Dublin,,Dublin,A96 E2H2,-6.152577476,53.27581026,110,N
